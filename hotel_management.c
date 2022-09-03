@@ -33,7 +33,7 @@ void main()
     int c1, ubill = 0;
     do
     {
-        printf("\t\t\t\t\t\t\tWELCOME TO MOHIT Hotel \n \t\t\t\t\t\t\t1) ROOM DETAILS \n \t\t\t\t\t\t\t2) CHECK IN \n \t\t\t\t\t\t\t3) CHECK OUT \n \t\t\t\t\t\t\t4) UPDATE INFORMATION \n \t\t\t\t\t\t\t5) RESTAURANT \n \t\t\t\t\t\t\t6) EXIT \n");
+        printf("\t\t\t\t\t\t\tWELCOME TO The Hotel \n \t\t\t\t\t\t\t1) ROOM DETAILS \n \t\t\t\t\t\t\t2) CHECK IN \n \t\t\t\t\t\t\t3) CHECK OUT \n \t\t\t\t\t\t\t4) UPDATE INFORMATION \n \t\t\t\t\t\t\t5) RESTAURANT \n \t\t\t\t\t\t\t6) EXIT \n");
         scanf("%d", &c1);
         switch (c1)
         {
